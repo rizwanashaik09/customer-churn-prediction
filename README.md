@@ -98,9 +98,8 @@ Billing information (monthly charges, total charges)
 ### 7️⃣ ROC Curve
 ![ROC Curve](images/07_roc_curve.png)
 
-### 8️⃣ Feature Importance (Top 10)
+### 8️⃣ Top 10 Feature Importance
 ![Feature Importance](images/08_top10_feature_importance.png)
-
 ---
 
 🤖 Machine Learning Models Used
