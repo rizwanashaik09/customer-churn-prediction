@@ -77,28 +77,28 @@ Billing information (monthly charges, total charges)
 
 🔎 Exploratory Data Analysis (EDA)
 
-1️⃣ Overall Churn Distribution
+### 1️⃣ Overall Churn Distribution
 ![Churn Distribution](images/01_churn_bar_chart.png)
 
-2️⃣ Churn by Contract Type
+### 2️⃣ Churn by Contract Type
 ![Churn by Contract](images/02_churn_by_contract.png)
 
-3️⃣ Tenure vs Churn
+### 3️⃣ Tenure vs Churn
 ![Tenure vs Churn](images/03_tenure_vs_churn.png)
 
-4️⃣ Monthly Charges vs Churn
+### 4️⃣ Monthly Charges vs Churn
 ![Monthly Charges vs Churn](images/04_monthly_charges_vs_churn.png)
 
-5️⃣ Feature Correlation Heatmap
-![Correlation Heatmap](images/05_feature_correlation_heatmap.png)
+### 5️⃣ Feature Correlation Heatmap
+![Feature Correlation Heatmap](images/05_feature_correlation_heatmap.png)
 
-6️⃣ Confusion Matrix
+### 6️⃣ Confusion Matrix
 ![Confusion Matrix](images/06_confusion_matrix.png)
 
-7️⃣ ROC Curve
+### 7️⃣ ROC Curve
 ![ROC Curve](images/07_roc_curve.png)
 
-8️⃣ Feature Importance (Top 10)
+### 8️⃣ Feature Importance (Top 10)
 ![Feature Importance](images/08_top10_feature_importance.png)
 
 ---
