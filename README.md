@@ -78,28 +78,36 @@ Billing information (monthly charges, total charges)
 🔎 Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Overall Churn Distribution
-![Churn Distribution](images/01_churn_bar_chart.png)
+<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/353cdc1c-5e7e-4d5e-8ab6-85c0682ef294" />
+
 
 ### 2️⃣ Churn by Contract Type
-![Churn by Contract](images/02_churn_by_contract.png)
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/c0d65855-e059-4591-a452-0aa2915b7cf0" />
+
 
 ### 3️⃣ Tenure vs Churn
-![Tenure vs Churn](images/03_tenure_vs_churn.png)
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/3f593137-d49b-4e28-8982-65603f381872" />
+
 
 ### 4️⃣ Monthly Charges vs Churn
-![Monthly Charges vs Churn](images/04_monthly_charges_vs_churn.png)
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/438299d7-6d40-49d2-b843-a7ad5d80bee1" />
+
 
 ### 5️⃣ Feature Correlation Heatmap
-![Feature Correlation Heatmap](images/05_feature_correlation_heatmap.png)
+<img width="1255" height="790" alt="image" src="https://github.com/user-attachments/assets/772c3455-dd7a-4e73-bc52-aae666d22ecc" />
+
 
 ### 6️⃣ Confusion Matrix
-![Confusion Matrix](images/06_confusion_matrix.png)
+<img width="510" height="393" alt="image" src="https://github.com/user-attachments/assets/0cbbfc25-f1dd-443e-8555-e1a499a0eb6d" />
+
 
 ### 7️⃣ ROC Curve
-![ROC Curve](images/07_roc_curve.png)
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/9a58dcb2-0538-4c7e-a088-91fa800b9da2" />
+
 
 ### 8️⃣ Top 10 Feature Importance
-![Feature Importance](images/08_top10_feature_importance.png)
+<img width="782" height="470" alt="image" src="https://github.com/user-attachments/assets/3487920d-2099-4ee6-9f4e-1c0e425995ee" />
+
 ---
 
 🤖 Machine Learning Models Used
